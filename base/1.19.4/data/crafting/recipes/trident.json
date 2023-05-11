@@ -1,0 +1,24 @@
+{
+    "format_version": "1.19.0",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " HQ",
+        " PH",
+        "P  "
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:iron_nugget"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        },
+        "P": {
+            "item": "minecraft:prismarine_shard"
+        }
+    },
+    "result": {
+        "item": "minecraft:trident",
+        "count": 1
+    }
+}
