@@ -1,0 +1,30 @@
+{
+    "format_version": "1.19.0",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#EC",
+        "RAR",
+        "CE#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:obsidian"
+        },
+        "E": {
+            "item": "minecraft:end_stone_bricks"
+        },
+        "C": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "R": {
+            "item": "minecraft:reinforced_deepslate"
+        },
+        "A": {
+            "item": "minecraft:ancient_debris"
+        }
+    },
+    "result": {
+        "item": "minecraft:bedrock",
+        "count": 1
+    }
+}

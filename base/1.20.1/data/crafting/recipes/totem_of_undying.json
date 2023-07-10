@@ -1,0 +1,27 @@
+{
+    "format_version": "1.19.0",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "NLN",
+        "EDE",
+        " L "
+    ],
+    "key": {
+        "N": {
+            "item": "minecraft:gold_nugget"
+        },
+        "L": {
+            "item": "minecraft:gold_ingot"
+        },
+        "E": {
+            "item": "minecraft:emerald"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "minecraft:totem_of_undying",
+        "count": 1
+    }
+}
